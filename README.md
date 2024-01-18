@@ -1,18 +1,19 @@
 # <p align="center" background-color= "white"><img src="https://github.com/AndreaOliver/MavenInspectionalServices/blob/main/MavenInspectionalServices%20Images/Maven_Inspectional_Services.png" width="400"></p>
 
-## Overview of the Maven Market Power BI Project
+## Overview of the Maven Inspectional Services Power BI Project
 
-This Power BI project is a comprehensive analysis and visualization of the Maven Market Grocery Store data. It's designed as a practical application Bonus Project of the skills taught in the "Power BI Desktop 2023" course by [Maven Analytics](https://github.com/MavenAnalytics). Key features of this project include:
+This Power BI project is part of a practical exercise from the [Maven Analytics](https://github.com/MavenAnalytics) Power BI Service course. It aims to translate the complex data from restaurant inspections into a clear and actionable dashboard. The project harnesses the advanced capabilities of Power BI to analyze and visualize inspection data, providing an essential tool for maintaining high standards in the food service industry.
 
-- Insightful Dashboard: An interactive dashboard tailored to highlight the operational metrics and KPIs crucial for a grocery store chain. It provides a quick, comprehensive overview of business performance.
-- Robust Data Models: These models are the backbone of our analysis, integrating diverse data sources to offer a complete perspective of the grocery chain's operations.
-- Comprehensive Reports: Dive deep into our analytical reports that cover areas such as supply chain efficiency, customer purchase patterns, product performance, and more.
-- Diverse Visualizations: Utilize a variety of visual tools, including maps, tree maps, alongside traditional bar and line charts for a more nuanced understanding of the data.
+Key Highlights:
+- Interactive Inspection Dashboard: Crafted to display crucial inspection metrics and KPIs, this dashboard offers a user-centric experience for navigating through restaurant service data.
+- Comprehensive Data Model: A robust framework that consolidates inspection data, offering a holistic view of the factors impacting restaurant hygiene and compliance.
+- Analytical Reporting: Detailed reports identify trends in inspection results, highlight frequent violation types, and track sanitation grades over time, helping to enforce food safety regulations.
+- Diverse Visualizations: The dashboard uses an array of visual tools, including geographic heatmaps and trend analyses, to make data interpretation intuitive and insightful.
 
 ## Dashboard Screenshot
 
-### Topline Performance Dashboard
-<img src="https://github.com/AndreaOliver/MavenMarket-GroceryStoreChain/blob/main/MavenMarket%20Screenshots/MavenMarket-ToplinePerformanceDashboard.png">
+### Inspections & Violations Dashboard
+<img src="https://github.com/AndreaOliver/MavenInspectionalServices/blob/main/MavenInspectionalServices%20Screenshots/MavenInspectionalServices-Dashboard.png">
 
 
 ## How to Download and View the Power BI Project Locally
